@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DatatypesExample/DatatypesExample.iml" filepath="$PROJECT_DIR$/DatatypesExample/DatatypesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If-elseif-else/If-elseif-else.iml" filepath="$PROJECT_DIR$/If-elseif-else/If-elseif-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTutorial.iml" filepath="$PROJECT_DIR$/JavaTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodEx/MethodEx.iml" filepath="$PROJECT_DIR$/MethodEx/MethodEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators_tut/Operators_tut.iml" filepath="$PROJECT_DIR$/Operators_tut/Operators_tut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
